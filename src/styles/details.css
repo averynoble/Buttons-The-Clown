@@ -1,0 +1,9 @@
+.field {  
+    margin: 10px;
+    flex-direction: column;
+    display: flex;
+}
+html {
+    background: linear-gradient(to bottom right,rgba(255, 0, 0, 0.137), rgba(255, 255, 0, 0.233), rgba(0, 0, 255, 0.301)) no-repeat center fixed;
+    background-size: cover;
+}

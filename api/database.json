@@ -1,0 +1,24 @@
+{
+  "clowns": [],
+  "reservations": [],
+  "reserveDate": [
+    {
+      "parentName": "Bill",
+      "childName": "Chad",
+      "numOfChildren": "8",
+      "partyAddress": "123 apple lane",
+      "partyDate": "2021-06-19",
+      "reservedTime": "2",
+      "id": 1
+    },
+    {
+      "parentName": "Toolman Tim",
+      "childName": "Joel",
+      "numOfChildren": "100",
+      "partyAddress": "1212 holliday lane",
+      "partyDate": "2021-06-24",
+      "reservedTime": "6",
+      "id": 2
+    }
+  ]
+}
